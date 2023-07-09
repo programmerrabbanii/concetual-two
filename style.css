@@ -157,7 +157,6 @@
     width: 80px;
     border-radius: 100%;
     margin-right: 10px;
-
 }
 
 .con-bnt {
@@ -192,9 +191,7 @@
     text-transform: capitalize;
     border-radius: 20px;
 }
-.appor-3{
 
-}
 .appor-2 p {
     color: white;
     font-size: 21px;
@@ -203,9 +200,7 @@
     width: 89px;
     margin-right: 44px;
 }
-.appor-1 h2{
 
-}
 .appor-1 {
     display: flex;
     margin-right: 38px;
@@ -220,4 +215,111 @@
 .appor-1 small{
     color: white;
 
+}
+.blog{
+    margin-bottom: 62px;
+}
+.blog-top {
+    padding: 41px;
+    text-align: center;
+}
+.blog-top span{
+    color: red;
+}
+.blog-top h2 {
+    font-size: 47px;
+    margin-bottom: 11px;
+}
+.blog-top p {
+    font-size: 24px;
+    margin-bottom: 18px;
+}
+.blog-main{
+    display: flex;
+    justify-content: space-around;
+
+}
+.blog-box {
+    width: 350px;
+    height: 400px;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    margin-left: 30px;
+    border-radius: 13px;
+}
+.blog-box img{
+    width: 100%;
+    border-radius: 13px;
+}
+.blog-box h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 18px
+}
+.blog-box p {
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-left: 18px
+}
+.footermain{
+    background-image: url(./img/footer-bg.png),linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.9));
+    background-blend-mode: overlay;
+    padding: 80px;
+    color: white;
+}
+.secend-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+li {
+    display: inline-block;
+    text-transform: capitalize;
+    line-height: 24px;
+}
+ .fot-one h4 {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.fot-two h4 {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.fot-thre h4{
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+.fot-four h4{
+    font-weight: 500;
+    margin-bottom: 10px;
+
+
+}
+.fot-four p {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.fot-four h3 {
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+.fa-solid, .fas {
+    font-weight: 900;
+    padding: 1px 10px;
+}
+
+.my-fot {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 34px;
+}
+hr {
+    margin-top: 30px;
 }
