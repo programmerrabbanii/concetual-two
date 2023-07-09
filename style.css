@@ -174,3 +174,50 @@
     text-transform: capitalize;
     margin-right:40px ;
 }
+.appoentment {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    height: 77px;
+    width: 1000px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15px;
+    margin-top: -100px;
+}
+.appo-btn {
+    border: none;
+    padding: 16px;
+    margin-left: 38px;
+    text-transform: capitalize;
+    border-radius: 20px;
+}
+.appor-3{
+
+}
+.appor-2 p {
+    color: white;
+    font-size: 21px;
+}
+.appor-1 img {
+    width: 89px;
+    margin-right: 44px;
+}
+.appor-1 h2{
+
+}
+.appor-1 {
+    display: flex;
+    margin-right: 38px;
+    border-right: 1px solid gray;
+    padding: 21px;
+}
+.appor-1 h2 {
+    line-height: 31px;
+    font-size: 34px;
+    color: white;
+}
+.appor-1 small{
+    color: white;
+
+}
